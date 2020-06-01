@@ -1,4 +1,4 @@
-# deep_learning_cuda_environment_setting
+# deep learning cuda environment setting
 
 ## 本文主要是紀錄deep learning使用cuda and cuDnn作為加速的環境建置，並且使用tensorflow keras作為測試環境用
 
